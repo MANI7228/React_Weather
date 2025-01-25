@@ -10,7 +10,7 @@
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4",
-    "homepage":"https://MANI7228.github.io/react-gh-pages"
+    "homepage":"https://MANI7228.github.io/React_Weather"
   },
   "scripts": {
     "start": "react-scripts start",
